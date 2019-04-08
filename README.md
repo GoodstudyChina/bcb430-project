@@ -5,7 +5,7 @@
 
 [Jaccard Distance and Heatmap](https://nbviewer.jupyter.org/github/yoonsikp/bcb430_project/blob/master/code/Jaccard_Distance_and_Heatmap.ipynb)
 
-[Modified Confusion Matrix Heatmap.ipynb](https://nbviewer.jupyter.org/github/yoonsikp/bcb430_project/blob/master/code/Modified_Confusion_Matrix_Heatmap.ipynb)
+[Modified Confusion Matrix Heatmap](https://nbviewer.jupyter.org/github/yoonsikp/bcb430_project/blob/master/code/Modified_Confusion_Matrix_Heatmap.ipynb)
 
 ### Presentation
 
