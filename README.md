@@ -9,4 +9,4 @@
 
 ### Presentation
 
-[Final Presentation](https://docs.google.com/viewer?url=https://github.com/yoonsikp/cnv-pathogenicity-prediction/raw/master/BCB330_Presentation_Excerpt.pdf)
+[Final Presentation](https://docs.google.com/viewer?url=https://github.com/yoonsikp/bcb430_project/raw/master/2019-March-LabMeeting.pdf)
