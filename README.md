@@ -9,4 +9,4 @@
 
 ### Presentation
 
-[Final Presentation](https://docs.google.com/viewer?url=https://github.com/yoonsikp/bcb430_project/raw/master/2019-March-LabMeeting.pdf)
+[Final Presentation](2019-March-LabMeeting.pdf)
