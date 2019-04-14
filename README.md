@@ -7,7 +7,7 @@
 
 [Modified Confusion Matrix Heatmap](https://nbviewer.jupyter.org/github/yoonsikp/bcb430_project/blob/master/code/Modified_Confusion_Matrix_Heatmap.ipynb)
 
-[UMAP of Dataset](https://nbviewer.jupyter.org/github/yoonsikp/bcb430_project/blob/master/code/Modified_Confusion_Matrix_Heatmap.ipynb)
+[UMAP of Dataset](https://nbviewer.jupyter.org/github/yoonsikp/bcb430_project/blob/master/code/UMAP_Coloured.ipynb)
 
 ### Presentation
 
